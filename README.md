@@ -1,12 +1,3 @@
-# Заголовок
-
-### Основные документы:
-1. [Главная страница)](README.md)
-2. [src](src/README.md)
-3. [translations](translations/README.md)
-4. [resources](resources/README.md)
-
-
 # 🌍 Hello World Universe
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
