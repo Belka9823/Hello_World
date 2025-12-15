@@ -101,7 +101,7 @@ graph LR
 
 **Логотип проекта (условный):**
 
-![Иконка Земли](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/200px-Google_2015_logo.svg.png)
+![Иконка Земли](https://www.svgrepo.com/show/303143/microsoft-logo.svg)
 *Пример иконки (использована для демонстрации)*
 
 
