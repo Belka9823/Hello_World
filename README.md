@@ -1,7 +1,7 @@
 # Заголовок
 
 ### Основные документы:
-1. [Главная страница (этот файл)](README.md)
-2. [Документация по исходному коду](src/README.md)
-3. [Руководство по переводам](translations/README.md)
-4. [Описание ресурсов проекта](resources/README.md)
+1. [Главная страница)](README.md)
+2. [src](src/README.md)
+3. [translations](translations/README.md)
+4. [resources](resources/README.md)
