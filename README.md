@@ -96,6 +96,10 @@ graph TD
 
 **Логотип проекта:**
 
+![Иконка Земли](https://static.tildacdn.com/tild3937-3931-4664-a135-616339613738/badge.png)
+
+**Логотип Спонсора:**
+
 ![Иконка Земли](https://www.svgrepo.com/show/303143/microsoft-logo.svg)
 
 
