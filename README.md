@@ -45,7 +45,7 @@
 
 Вот как выглядит начало в некоторых популярных языках:
 
-**Классика на Python:**
+**Начало C++:**
 ```C++
 #include <iostream>  
 using namespace std;  
@@ -55,14 +55,10 @@ int main() {
 }  
 ```
 
-**Строгий и быстрый Go:**
-```go
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!") // Четко и по делу
+**Начало C#:**
+```C#
+Console.WriteLine("Hello, World!");  
+Console.ReadKey();  
 }
 ```
 
