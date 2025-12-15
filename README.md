@@ -57,8 +57,11 @@ int main() {
 
 **Начало C#:**
 ```C#
-Console.WriteLine("Hello, World!");  
-Console.ReadKey();  
+#include <stdio.h>  
+int main() {  
+    printf("Hello, World!\n");  
+    return 0;  
+}  
 }
 ```
 
