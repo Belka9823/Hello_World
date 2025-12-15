@@ -104,7 +104,4 @@ graph LR
 ![Иконка Земли](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/200px-Google_2015_logo.svg.png)
 *Пример иконки (использована для демонстрации)*
 
-**Визуализация структуры:**
 
-![Структура папок](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Folder_directories.svg/200px-Folder_directories.svg.png)
-*Схема организации файлов*
