@@ -1,106 +1,11 @@
-# 🌍 Hello World Universe
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
----
-
-## 📑 Навигация по документу (Якорные ссылки)
-
-*   [🚀 Описание проекта](#-описание-проекта)
-*   [🔍 Навигация по проекту](#-Навигация-по-проекту)
-*   [💻 Примеры кода](#-примеры-кода)
-*   [📊 Сравнение с аналогами](#-сравнение-с-аналогами)
-*   [🔧 Процесс работы](#-процесс-работы)
-*   [🤝 Как поддержать проект](#-как-поддержать-проект)
-
----
-
-## 🚀 Описание проекта
-
-Проект **"Hello, World!" Universe** — это *инновационный* проект, который выводит классическое **"Hello, World!"** на новый уровень. Он поддерживает более `50` языков программирования и `30` человеческих языков, делая первое знакомство с кодингом поистине международным!. 
-
-> «Программирование — это как искусство. Это не просто работа, это способ выражения» — Дональд Кнут
-
----
-
-## 🔍 Навигация по проекту
-1. [💻 Документация по исходному коду](src/README.md)
-2. [🌐 Руководство по переводам](translations/README.md)
-3. [🖼️ Описание ресурсов проекта](resources/README.md)
-
----
-
-## 💻 Примеры кода
-
-Вот как выглядит начало в некоторых популярных языках:
-
-**Начало C++:**
-```C++
-#include <iostream>  
-using namespace std;  
-int main() {  
-    cout << "Hello World!" << endl;  
-    return 0;  
-}  
-```
-
-**Начало C#:**
-```C#
-#include <stdio.h>  
-int main() {  
-    printf("Hello, World!\n");  
-    return 0;  
-}  
-```
-
-## 📊 Сравнение с аналогами
-
-| Функция / Проект | **Hello World Universe** | **Classic Hello** | **Simple HW** |
-| :--------------- | :----------------------: | :---------------: | :-----------: |
-| **Поддержка ЯП** | 50+ языков | 10 языков | 5 языков |
-| **Локализация** | 30+ языков | Только EN | ❌ Нет |
-| **Интерфейс** | CLI + Web UI | Только CLI | Только консоль |
-| **Расширяемость** | ✅ Плагины | ❌ Нет | ❌ Нет |
-| **Тестирование** | 95% coverage | 60% coverage | ❌ Нет |
-| **Сложность** | `средняя` | `низкая` | `очень низкая` |
-| **Лицензия** | MIT | GPL | Проприетарная |
-
----
-
-## 🔧 Процесс работы
-
-Процесс создания новых проектов:
-
-```mermaid
-graph TD
-    A[Идея проекта] --> B[Планирование]
-    B --> C{Выбор языка?}
-    C -->|Python| D[Разработка ядра]
-    C -->|JavaScript| E[Веб-интерфейс]
-    C -->|Все языки| F[Тестирование]
-    
-    D --> F
-    E --> F
-    
-    F --> G{Тесты пройдены?}
-    G -->|Да| H[Документирование]
-    G -->|Нет| I[Исправление ошибок]
-    I --> F
-    
-    H --> J[Релиз v1.0]
-    J --> K[Поддержка и обновления]
-```
-
-## 🖼️ Скриншоты и ресурсы
-
-**Логотип проекта:**
-
-![Иконка Земли](https://static.tildacdn.com/tild3937-3931-4664-a135-616339613738/badge.png)
-
-**Логотип Спонсора:**
-
-![Иконка Земли](https://www.svgrepo.com/show/303143/microsoft-logo.svg)
-
+<img width="1334" height="762" alt="image" src="https://github.com/user-attachments/assets/2d1be4ad-3916-41ca-ba37-46f076b5b8a4" />
+<img width="1333" height="755" alt="image" src="https://github.com/user-attachments/assets/8d13db5a-cee9-45cc-b3b5-9443ebc769da" />
+<img width="1353" height="754" alt="image" src="https://github.com/user-attachments/assets/1662d23c-dcc6-4414-a8ad-17c9df15e766" />
+<img width="1351" height="761" alt="image" src="https://github.com/user-attachments/assets/73d69ca4-e801-4f6a-a149-46ebd5bc3d71" />
+<img width="1345" height="753" alt="image" src="https://github.com/user-attachments/assets/9f8e6f0f-2f37-480d-9207-488b46582fda" />
+<img width="1348" height="754" alt="image" src="https://github.com/user-attachments/assets/f7fa5bc8-f7c3-4ed6-9178-35757a8e144e" />
+<img width="1352" height="762" alt="image" src="https://github.com/user-attachments/assets/5697d9ea-3fb7-42bb-86d9-3da4db10963b" />
+<img width="1348" height="761" alt="image" src="https://github.com/user-attachments/assets/60b048dc-0dea-4345-a7cc-ef3c9ab13fa3" />
+<img width="1343" height="754" alt="image" src="https://github.com/user-attachments/assets/dc39320f-d585-4e99-8370-3d828e882fb9" />
 
 
